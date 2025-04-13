@@ -1,1 +1,2 @@
-## Jenny Mod Minecraft is an unofficial modification that adds a special character called Jenny in Minecraft. It extends the game with new features and interactions that are not accessible in vanilla Minecraft.
+## Jenny Mod: A New Dimension of Minecraft Interaction
+
